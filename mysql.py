@@ -32,4 +32,4 @@ while True:
         else:
             print("输入的数字不在1到4之间")
     except ValueError:
-        print("您输入的不是数字，请再次尝试输入！")
+        print("您输入的不是数字，请再次尝试输入！！")
